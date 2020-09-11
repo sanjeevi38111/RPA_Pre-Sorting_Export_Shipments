@@ -1,0 +1,319 @@
+Packing List arvato distribution GmbH - Werner-Schrˆder-Str. 1 - D 21035 Hamburg
+
+on behalf of Shipper OLYMPUS EUROPA SE & Co. KG - Amsinckstraﬂe 63 - D 20097 Hamburg
+
+
+
+Ship to: Customer Number: 3001508459 Carrier:
+
+Customer order No: see below Shipment Mode: Abh. Int. Airfreight
+
+AP-Number see below
+
+Olympus MOSCOW LLC Export Number: SB00182243 Carrier: Other Carrier
+
+27,building 8,Elektrozavodskaya Str Number of pallets: 2
+
+107023 Moscow Number of cartons: 0 Incoterm: Insured freight-free
+
+Russian Federation Gross weight KG: 107,000
+
+Net weight KG: 87,000 Shipment Date: 17.07.2020
+
+Total volume qm≥: 1,309
+
+
+
+Package Customs Volume Net Gross
+
+Tracking No. No. Status Article No. Article Description Qty Dimensions mm qm≥ weight weight
+
+KG KG
+
+Z260000000001023712 Packaging: PA 1.200 / 800 / 1.540
+
+Delivery No.: 73859984  / 0032887352
+
+Cust.Ord.: 060754
+
+363 T2 U8147015 38DLP-HR High Resoloution Opti 1 PCE 633 / 453 / 410 0,124 5,035 6,323
+
+U8225961 38DLP BASE KIT NATIONAL 1 PCE
+
+KEYPAD
+
+UN 3481 Class:
+
+Lithium ion batteries contained in equipment
+
+U8410019 M208-RM : Delay Line Transduce 1 PCE
+
+U8450002 D790 : Dual Transducer 2 PCE
+
+U8770073 DLH-307 : Sonopen Delay .040'' 2 PCE
+
+Delivery No.: 73859989  / 0032887354
+
+Cust.Ord.: 060786
+
+792 T2 Q0203368 VEL-PIN-A1-E 1 PCE 633 / 453 / 200 0,063 5,934 7,188
+
+UN 3481 Class:
+
+Lithium ion batteries packed with equipment
+
+
+
+Page 1Packing List Export No.: SB00182243
+
+
+
+Package Customs Volume Net Gross
+
+Tracking No. No. Status Article No. Article Description Qty Dimensions mm qm≥ weight weight
+
+KG KG
+
+Delivery No.: 73859993  / 0032887356
+
+Cust.Ord.: 060885
+
+791 T2 Q0203368 VEL-PIN-A1-E 1 PCE 633 / 453 / 200 0,063 6,651 7,905
+
+UN 3481 Class:
+
+Lithium ion batteries packed with equipment
+
+Delivery No.: 73860697  / 0032887992
+
+Cust.Ord.: 060909
+
+420 T2 Q0500061 EP650-KIT-KI-BX BASE KIT 1 PCE 750 / 350 / 205 0,057 6,572 7,420
+
+UN 3481 Class:
+
+Lithium ion batteries contained in equipment
+
+Q3300245 SA31-N55S-IHC 1 PCE
+
+U8450002 D790 : Dual Transducer 4 PCE
+
+U8720650 SA10-IHC: Removable IHC Option 2 PCE
+
+Delivery No.: 73860710  / 0032887993
+
+Cust.Ord.: 061022
+
+790 T2 Q0203368 VEL-PIN-A1-E 1 PCE 633 / 453 / 200 0,063 6,641 7,895
+
+UN 3481 Class:
+
+Lithium ion batteries packed with equipment
+
+Delivery No.: 73860712  / 0032887994
+
+Cust.Ord.: 061029
+
+419 T2 U8450018 D798 : Dual Transducer 2 PCE 329 / 234 / 247 0,018 2,649 2,917
+
+U8780336 27MG INTERNATIONAL BASE KIT 2 PCE
+
+Delivery No.: 73860745  / 0032887996
+
+Cust.Ord.: 061081
+
+
+
+OLYMPUS EUROPA SE & Co. KG - Amsinckstraﬂe 63 - D 20097 Hamburg Page 2Packing List Export No.: SB00182243
+
+
+
+Package Customs Volume Net Gross
+
+Tracking No. No. Status Article No. Article Description Qty Dimensions mm qm≥ weight weight
+
+KG KG
+
+417 T2 SM974200 ADJUSTMENT SCREW FX6 4 PCE 250 / 160 / 10 0,000 0,002- 0,028
+
+Delivery No.: 73860750  / 0032888001
+
+Cust.Ord.: 061095
+
+418 T2 Q0202437 VLW-XXX-CC-O 1 PCE 633 / 453 / 260 0,078 7,865 9,119
+
+UN 3481 Class:
+
+Lithium ion batteries packed with equipment
+
+U8840003 hec4 : Power Cord European 1 PCE
+
+Delivery No.: 73860769  / 0032888008
+
+Cust.Ord.: 061162
+
+422 T2 N2965700 IV86-AT120D/FF IPLEX LED Tip A 1 PCE 160 / 130 / 70 0,002 0,030 0,091
+
+Delivery No.: 73860778  / 0032888010
+
+Cust.Ord.: 061166
+
+423 T2 U8400038 M116-RM : Contact Transducer, 1 PCE 213 / 153 / 109 0,004 0,131 0,220
+
+U8411018 V260-RM : Delay Line Transduce 1 PCE
+
+Delivery No.: 73860780  / 0032888011
+
+Cust.Ord.: 061167
+
+424 T2 U8450002 D790 : Dual Transducer 2 PCE 330 / 235 / 75 0,007 0,488 0,620
+
+Delivery No.: 73860782  / 0032888012
+
+Cust.Ord.: 061169
+
+434 T2 U8435020 C543-SM : Angle Beam Transduce 1 PCE 213 / 153 / 109 0,004 0,039 0,128
+
+U8700070 ABWM-4T-60 : Wedge, Accupath, 1 PCE
+
+Delivery No.: 73860790  / 0032888015
+
+Cust.Ord.: 061184
+
+436 T2 N2965700 IV86-AT120D/FF IPLEX LED Tip A 1 PCE 160 / 130 / 70 0,002 0,031 0,092
+
+
+
+OLYMPUS EUROPA SE & Co. KG - Amsinckstraﬂe 63 - D 20097 Hamburg Page 3Packing List Export No.: SB00182243
+
+
+
+Package Customs Volume Net Gross
+
+Tracking No. No. Status Article No. Article Description Qty Dimensions mm qm≥ weight weight
+
+KG KG
+
+Delivery No.: 73860828  / 0032888059
+
+Cust.Ord.: 061224
+
+438 T2 N4154100 IV96100GL IPLEX GL 1 PCE 633 / 453 / 200 0,063 4,986 6,240
+
+UN 3481 Class:
+
+Lithium ion batteries packed with equipment
+
+N4154500 IV96G-AT120D/NF IPLEX TIP 1 PCE
+
+N4154800 IV96G-AT120S/NF IPLEX TIP 1 PCE
+
+Delivery No.: 73860839  / 0032888061
+
+Cust.Ord.: 061228
+
+441 T2 N4153900 IV9620GL IPLEX GL 2 PCE 633 / 453 / 410 0,124 8,728 10,016
+
+UN 3481 Class:
+
+Lithium ion batteries packed with equipment
+
+N4154500 IV96G-AT120D/NF IPLEX TIP 2 PCE
+
+N4154900 IV96G-AT120S/FF IPLEX TIP 2 PCE
+
+Delivery No.: 73860859  / 0032888069
+
+Cust.Ord.: 061240
+
+446 T2 N4138900 IPLEX CEE POWER CABLE 1 PCE 330 / 235 / 75 0,007 0,194 0,326
+
+Delivery No.: 73860866  / 0032888071
+
+Cust.Ord.: 061252
+
+449 T2 Q0201565 ASSY-10409-0001 IO DOOR  BLUE 1 PCE 160 / 130 / 70 0,002 0,033 0,094
+
+Delivery No.: 73860868  / 0032888072
+
+Cust.Ord.: 061253
+
+450 T2 N4131600 IV8212T IPLEX TX VIDEOSCOPE UN 1 PCE 633 / 453 / 200 0,063 0,856 2,110
+
+Delivery No.: 73871582  / 0032893287
+
+
+
+OLYMPUS EUROPA SE & Co. KG - Amsinckstraﬂe 63 - D 20097 Hamburg Page 4Packing List Export No.: SB00182243
+
+
+
+Package Customs Volume Net Gross
+
+Tracking No. No. Status Article No. Article Description Qty Dimensions mm qm≥ weight weight
+
+KG KG
+
+Cust.Ord.: 060872
+
+663 T2 Q0200818 VLW-XXX-CC-E 1 PCE 633 / 453 / 200 0,063 7,646 8,900
+
+UN 3481 Class:
+
+Lithium ion batteries packed with equipment
+
+Delivery No.: 73871586  / 0032893289
+
+Cust.Ord.: 061350
+
+664 T2 N2965700 IV86-AT120D/FF IPLEX LED Tip A 2 PCE 160 / 130 / 70 0,002 0,081 0,142
+
+N2966000 IV86-AT120S/FF IPLEX LED Tip A 2 PCE
+
+Delivery No.: 73871588  / 0032893290
+
+Cust.Ord.: 061351
+
+665 T2 N4131600 IV8212T IPLEX TX VIDEOSCOPE UN 1 PCE 633 / 453 / 200 0,063 0,846 2,100
+
+Delivery No.: 73871594  / 0032893292
+
+Cust.Ord.: 061354
+
+666 T2 N2965500 IV86-AT80D/FF IPLEX LED Tip Ad 1 PCE 555 / 265 / 128 0,015 1,352 1,610
+
+N4128024 JL-2PLUS/OL-1 BATT CHARGER UK/ 1 PCE
+
+Z260000000001023713 Packaging: PA 600 / 800 / 590
+
+Delivery No.: 73860828  / 0032888059
+
+Cust.Ord.: 061224
+
+439 T1 N4142624 S-AC-CBL-CEE 1 PCE 330 / 235 / 75 0,007 0,035 0,167
+
+Delivery No.: 73860859  / 0032888069
+
+Cust.Ord.: 061240
+
+445 T1 N2965124 CH5000X-EU Desktop Battery Cha 1 PCE 633 / 453 / 200 0,063 2,447 3,701
+
+N4131600 IV8212T IPLEX TX VIDEOSCOPE UN 1 PCE
+
+447 T1 N4131500 IV8200T IPLEX TX VIDEOSCOPE CC 1 PCE 800 / 700 / 600 0,351 4,132 7,062
+
+
+
+OLYMPUS EUROPA SE & Co. KG - Amsinckstraﬂe 63 - D 20097 Hamburg Page 5Packing List Export No.: SB00182243
+
+
+
+Package Customs Volume Net Gross
+
+Tracking No. No. Status Article No. Article Description Qty Dimensions mm qm≥ weight weight
+
+KG KG
+
+
+
+OLYMPUS EUROPA SE & Co. KG - Amsinckstraﬂe 63 - D 20097 Hamburg Page 6

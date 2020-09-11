@@ -1,0 +1,8 @@
+AUTO2C03
+Olympu$@123
+
+
+REgex to find AP Number: (?<=AP-Number ).([0-9]*)
+(?<=AP-Number ).*
+
+Regec to find Delivery note: (?<=Delivery No.: ).([0-9]*)
